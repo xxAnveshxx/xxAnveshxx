@@ -26,7 +26,7 @@ class Anvesh:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -55,17 +55,17 @@ class Anvesh:
 
 ### 💻 Current Project
 
-**🔄 SyncFlow** - Real-time Database Synchronization Platform  
+** SyncFlow** - Real-time Database Synchronization Platform  
 Building a CDC (Change Data Capture) platform for real-time database sync using PostgreSQL, Kafka, Zookeeper, Debezium, and Elasticsearch.
 
 `🚧 Work in Progress`
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <details>
-<summary><b>🤖 CodeAssure</b> - AI-Powered Code Analysis Platform</summary>
+<summary><b> CodeAssure</b> - AI-Powered Code Analysis Platform</summary>
 <br>
   
 - Backend: FastAPI, SQLAlchemy, Groq AI
@@ -76,7 +76,7 @@ Building a CDC (Change Data Capture) platform for real-time database sync using 
 </details>
 
 <details>
-<summary><b>📝 AptiSure</b> - Aptitude Test Platform with Analytics</summary>
+<summary><b> AptiSure</b> - Aptitude Test Platform with Analytics</summary>
 <br>
   
 - Full MERN stack application
@@ -87,7 +87,7 @@ Building a CDC (Change Data Capture) platform for real-time database sync using 
 </details>
 
 <details>
-<summary><b>💬 MERNchatapp</b> - Real-Time Chat Application</summary>
+<summary><b> MERNchatapp</b> - Real-Time Chat Application</summary>
 <br>
   
 - JavaScript-based MERN stack
@@ -98,22 +98,15 @@ Building a CDC (Change Data Capture) platform for real-time database sync using 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxAnveshxx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxAnveshxx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xxAnveshxx&color=00ff00&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
-
 <p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i> "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
