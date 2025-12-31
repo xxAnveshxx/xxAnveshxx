@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 Software Engineering undergraduate with hands-on experience building **production-ready full-stack and AI-powered applications**. Strong backend focus with proven expertise in REST API development, authentication & authorization, vector databases, RAG pipelines, and cloud deployment.
 
