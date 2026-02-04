@@ -98,12 +98,6 @@ Building a CDC (Change Data Capture) platform for real-time database sync using 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxAnveshxx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xxAnveshxx&color=00ff00&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
